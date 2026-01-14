@@ -5,10 +5,7 @@
   "author": {
     "name": "andrueandersoncs"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/andrueandersoncs/claude-tla-plus-plugin"
-  },
+  "repository": "https://github.com/andrueandersoncs/claude-tla-plus-plugin",
   "keywords": [
     "tla+",
     "formal-verification",
