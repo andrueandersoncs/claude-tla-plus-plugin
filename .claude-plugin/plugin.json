@@ -1,0 +1,20 @@
+{
+  "name": "tla-plus",
+  "description": "Generate TLA+ specifications and TLC model configurations for formal verification of distributed systems, concurrent algorithms, and state machines",
+  "version": "1.0.0",
+  "author": {
+    "name": "Claude Code Plugin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/example/claude-tla-plus-plugin"
+  },
+  "keywords": [
+    "tla+",
+    "formal-verification",
+    "model-checking",
+    "distributed-systems",
+    "concurrency",
+    "specification"
+  ]
+}
