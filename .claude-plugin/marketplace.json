@@ -1,0 +1,29 @@
+{
+  "name": "tla-plus-marketplace",
+  "owner": {
+    "name": "andrueandersoncs"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for TLA+ formal verification and specification",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "tla-plus",
+      "source": "./",
+      "description": "Generate TLA+ specifications and TLC model configurations for formal verification of distributed systems, concurrent algorithms, and state machines",
+      "version": "1.0.0",
+      "category": "formal-verification",
+      "tags": [
+        "tla+",
+        "formal-verification",
+        "model-checking",
+        "distributed-systems",
+        "concurrency",
+        "specification",
+        "pluscal",
+        "tlc"
+      ]
+    }
+  ]
+}

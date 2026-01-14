@@ -3,7 +3,7 @@
   "description": "Generate TLA+ specifications and TLC model configurations for formal verification of distributed systems, concurrent algorithms, and state machines",
   "version": "1.0.0",
   "author": {
-    "name": "Claude Code Plugin"
+    "name": "andrueandersoncs"
   },
   "repository": {
     "type": "git",
